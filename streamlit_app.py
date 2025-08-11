@@ -1,4 +1,6 @@
 import streamlit as st
+from clases import FootballDataScraper
+import polars as pl
 
 st.title("🎈 alex goyzueta")
 st.write(
